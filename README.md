@@ -106,7 +106,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
-- [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+- [x] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
@@ -122,9 +122,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+- [x] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
-- [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+- [x] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
 - [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
