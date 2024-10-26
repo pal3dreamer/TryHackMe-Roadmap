@@ -58,8 +58,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
 
-- [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
-
 - [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
 - [x] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
@@ -68,23 +66,14 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
-- [ ] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
-
 - [x] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 
 ---
-
-- [ ] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
-
 - [x] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
 - [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-
-- [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
-
-- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
 ## Windows Fundamentals
 
@@ -103,8 +92,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [x] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
-
-- [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
 - [x] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
@@ -126,19 +113,15 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
-- [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
-
 - [x] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
-- [x] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
+- [] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
-- [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+- [x] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
-- [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
+- [x] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
 - [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
-
-- [ ] [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
 
 - [ ] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
@@ -160,7 +143,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
-- [ ] [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
 
 ## Networking
 
@@ -169,10 +151,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
-
-- [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
-
-- [ ] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
 
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
