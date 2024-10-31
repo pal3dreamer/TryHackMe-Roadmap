@@ -121,7 +121,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
-- [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
+- [x] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
 - [ ] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
@@ -162,14 +162,13 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [x] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)\
+- [x] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
   
 - [ ] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
 - [ ] [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
-- [ ] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
-
+- [x] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
 
 - [ ] [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
 
