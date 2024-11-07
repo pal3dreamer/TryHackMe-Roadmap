@@ -115,7 +115,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
-- [] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
+- [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan) // Requires Shodan Premium
 
 - [x] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
@@ -123,7 +123,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
-- [ ] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
+- [x] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
 ## Scripting
 
@@ -196,9 +196,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
+- [x] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
-- [ ] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- [x] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
 - [ ] [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
